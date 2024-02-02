@@ -1,2 +1,6 @@
+.vscode/
+.wcaz/
 base/src/.DS_Store
 base/.DS_Store
+zapp.yaml
+
