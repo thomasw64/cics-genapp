@@ -4,3 +4,5 @@ base/src/.DS_Store
 base/.DS_Store
 zapp.yaml
 
+/.validate
+.DS_Store
